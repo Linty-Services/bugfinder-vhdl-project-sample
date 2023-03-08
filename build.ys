@@ -1,0 +1,3 @@
+read -vhdl ./fly.vhd
+read -vhdl ./dream.vhd
+hierarchy -top dream
